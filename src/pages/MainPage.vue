@@ -14,7 +14,7 @@ const contact = "contact section";
 
 <template>
   <PageHeader />
-  <PageMenu />
+  <PageMenu class="hidden md:block" />
   <SectionAbout :text="about" />
   <SectionExperience :text="experience" />
   <SectionSkills :text="skills" />
