@@ -17,6 +17,11 @@ export default {
       "paragraph-large": "20px",
       "paragraph-medium": "16px",
     },
+    fontFamily: {
+      carlito: ["Carlito", "sans-serif"],
+      dmsans: ["DM Sans", "sans-serif"],
+      playfair: ["Playfair Display", "serif"],
+    },
+    plugins: [],
   },
-  plugins: [],
 };
