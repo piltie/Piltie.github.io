@@ -22,6 +22,10 @@ export default {
       dmsans: ["DM Sans", "sans-serif"],
       playfair: ["Playfair Display", "serif"],
     },
+    screens: {
+      md: "1000px",
+      lg: "1280px",
+    },
     plugins: [],
   },
 };
