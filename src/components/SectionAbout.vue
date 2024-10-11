@@ -3,5 +3,5 @@ defineProps<{ text: string }>();
 </script>
 
 <template>
-  <p>text</p>
+  <p>{{ text }}</p>
 </template>
