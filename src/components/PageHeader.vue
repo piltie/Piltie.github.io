@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-brown text-pale py-[25.5px] text-center text-subtitle-medium font-semibold font-dmsans tracking-widest"
+    class="bg-brown text-pale py-[25.5px] text-center font-semibold font-dmsans tracking-subtitle"
   >
     EN | PT
   </div>
