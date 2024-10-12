@@ -26,6 +26,11 @@ export default {
       md: "1000px",
       lg: "1280px",
     },
+    extend: {
+      letterSpacing: {
+        subtitle: "5px",
+      },
+    },
     plugins: [],
   },
 };
